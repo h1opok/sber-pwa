@@ -1,5 +1,5 @@
 {
-  "name": "СберБанк — демо",
+  "name": "СберБанк",
   "short_name": "Банк",
   "start_url": "./index.html",
   "scope": "./",
